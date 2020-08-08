@@ -1,4 +1,4 @@
-#Hello World!
+# Hello World!
 
 # Hi I'm Marianne 👋
 [![Linkedin Badge](https://img.shields.io/badge/-Marianne-blue?style=flat&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/marianne-aguiar-dev)](http://www.linkedin.com/in/marianne-aguiar-dev)
@@ -7,7 +7,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Marianne-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contact@marianneag.dev)](mailto:contact@marianneag.dev)
 
-I'm curious person. Besides code, in my free time includes digging manual jobs as cooking or DIY mechanics. 
+I'm curious person. Besides code :computer:, in my free time includes digging manual jobs as cooking:yum: or DIY mechanics :wrench: . 
 
 ### Languages and Tools:
 
