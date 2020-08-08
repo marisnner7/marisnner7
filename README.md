@@ -1,11 +1,11 @@
 #Hello World!
 
 # Hi I'm Marianne 👋
-![Linkedin Badge](https://img.shields.io/badge/-Marianne-blue?style=flat&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/marianne-aguiar-dev)(http://www.linkedin.com/in/marianne-aguiar-dev)
+[![Linkedin Badge](https://img.shields.io/badge/-Marianne-blue?style=flat&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/marianne-aguiar-dev)](http://www.linkedin.com/in/marianne-aguiar-dev)
 
-![Website Badge](https://img.shields.io/badge/-marianneag.dev-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.marianneag.dev/)(https://www.marianneag.dev/)
+[![Website Badge](https://img.shields.io/badge/-marianneag.dev-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.marianneag.dev/)](https://www.marianneag.dev/)
 
-![Gmail Badge](https://img.shields.io/badge/-Marianne-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contact@marianneag.dev)(mailto:contact@marianneag.dev)
+[![Gmail Badge](https://img.shields.io/badge/-Marianne-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contact@marianneag.dev)](mailto:contact@marianneag.dev)
 
 I'm curious person. Besides code, in my free time includes digging manual jobs as cooking or DIY mechanics. 
 
